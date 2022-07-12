@@ -20,10 +20,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-component-BrJUdtPmwP)
+- Live Site URL: [Live site](https://lenemter.github.io/qr-code-component/)
 
 ## Author
 
-- Website - [lenemter](https://github.com/lenemter)
+- Website - [My Github](https://github.com/lenemter)
 - Frontend Mentor - [@lenemter](https://www.frontendmentor.io/profile/lenemter)
