@@ -10,7 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     - [Screenshot](#screenshot)
     - [Links](#links)
   - [Author](#author)
-  - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -25,5 +24,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [My Github](https://github.com/lenemter)
+- My Github - [lenemter](https://github.com/lenemter)
 - Frontend Mentor - [@lenemter](https://www.frontendmentor.io/profile/lenemter)
